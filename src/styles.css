@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  color: rgb(110, 168, 187);
+  text-align: center;
+}
+.js-range {
+  width: 25%;
+  display: inline-block;
+  margin: 0;
+}
+.text {
+  width: 3%;
+}
+
+span {
+  margin: 1%;
+}
